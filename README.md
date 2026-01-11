@@ -103,3 +103,18 @@ Common settings include:
 ## Alpha Release
 
 This is an alpha release. All feedback and feature requests are greatly appreciated! 
+
+## Screenshots
+
+![Deck Browser](screenshots/Deck%20Browser.jpg)
+
+![MCQ](screenshots/MCQ.jpg)
+
+
+![Basic](screenshots/Basic.jpg)
+
+![Basic + Menu](screenshots/Basic%20%2B%20Menu.jpg)
+
+![Flashcard Browser](screenshots/Flashcard%20Browser.jpg)
+
+![Settings](screenshots/Settings.jpg)
