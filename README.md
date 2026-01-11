@@ -33,8 +33,11 @@ Requirements by type:
 ## Basic card
 
 T | Optional title |
+
 Q | Question (required) |
+
 A | Answer (required) |
+
 I | Optional info |
 
 ## Cloze card
@@ -42,7 +45,9 @@ I | Optional info |
 Use cloze markers like {{c1::...}}.
 
 T  | Optional title |
+
 CQ | Cloze text with {{c1::deletions}} (required) |
+
 I  | Optional info |
 
 ## MCQ card
@@ -50,8 +55,11 @@ I  | Optional info |
 Put the options on the O: line, separated by pipes. Mark the correct option by wrapping it in asterisks.
 
 T   | Optional title |
+
 MCQ | Question stem (required) |
+
 O:  | Option 1 | *Option 2 (correct)* | Option 3 | Option 4 |
+
 I   | Optional info |
 
 ## Multi-line cards or cards with images
@@ -59,11 +67,15 @@ I   | Optional info |
 Fields can have multiple lines or images (the only exception is the options line for MCQs). For multiple lines the pipe acts as the end of the field. Images can be introduced as Obsidian attachments e.g ![Image One.png] in your note, and they will appear when studying.
 
 | T | Example – Multi-line Answer with Image |
+
 | Q | List three key features of Example Condition X and include a diagram. |
-| A | - Feature 1
-- Feature 2
-- Feature 3
+
+| A | Line One
+
+Line Two
+
 ![Image.png] |
+
 | I | Keep answers short and structured. |
 
 
