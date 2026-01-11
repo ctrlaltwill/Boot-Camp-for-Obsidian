@@ -1,0 +1,10 @@
+{
+  "id": "boot-camp-for-obsidian-alpha",
+  "name": "Boot Camp",
+  "version": "0.0.1",
+  "minAppVersion": "1.5.0",
+  "description": "Anki-style flashcards within Obsidian.",
+  "author": "William Guy",
+  "authorUrl": "https://github.com/ctrlaltwill",
+  "isDesktopOnly": true
+}
