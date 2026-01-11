@@ -66,17 +66,17 @@ I  | Extra Information (Optional) |
 
 Fields can have multiple lines or images (the only exception is the options line for MCQs). For multiple lines the pipe acts as the end of the field. Images can be introduced as Obsidian attachments e.g ![Image One.png] in your note, and they will appear when studying.
 
-| T | Example – Multi-line Answer with Image |
+T | Example – Multi-line Answer with Image |
 
-| Q | List three key features of Example Condition X and include a diagram. |
+Q | List three key features of Example Condition X and include a diagram. |
 
-| A | Line One
+A | Line One
 
 Line Two
 
 ![Image.png] |
 
-| I | Keep answers short and structured. |
+I | Keep answers short and structured. |
 
 
 ## Alternative: Add Flashcard button
