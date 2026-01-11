@@ -106,15 +106,15 @@ This is an alpha release. All feedback and feature requests are greatly apprecia
 
 ## Screenshots
 
-![Deck Browser](screenshots/Deck%20Browser.jpg)
+![Deck Browser](screenshots/Deck%20Browser.png)
 
-![MCQ](screenshots/MCQ.jpg)
+![MCQ](screenshots/MCQ.png)
 
 
-![Basic](screenshots/Basic.jpg)
+![Basic](screenshots/Basic.png)
 
-![Basic + Menu](screenshots/Basic%20%2B%20Menu.jpg)
+![Basic + Menu](screenshots/Basic%20%2B%20Menu.png)
 
-![Flashcard Browser](screenshots/Flashcard%20Browser.jpg)
+![Flashcard Browser](screenshots/Flashcard%20Browser.png)
 
-![Settings](screenshots/Settings.jpg)
+![Settings](screenshots/Settings.png)
