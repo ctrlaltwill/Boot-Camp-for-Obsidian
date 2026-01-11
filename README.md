@@ -32,35 +32,35 @@ Requirements by type:
 
 ## Basic card
 
-T | Optional title |
+T | Title (Optional) |
 
 Q | Question (required) |
 
 A | Answer (required) |
 
-I | Optional info |
+I  | Extra Information (Optional) |
 
 ## Cloze card
 
 Use cloze markers like {{c1::...}}.
 
-T  | Optional title |
+T | Title (Optional) |
 
 CQ | Cloze text with {{c1::deletions}} (required) |
 
-I  | Optional info |
+I  | Extra Information (Optional) |
 
 ## MCQ card
 
 Put the options on the O: line, separated by pipes. Mark the correct option by wrapping it in asterisks.
 
-T   | Optional title |
+T | Title (Optional) |
 
 MCQ | Question stem (required) |
 
 O:  | Option 1 | *Option 2 (correct)* | Option 3 | Option 4 |
 
-I   | Optional info |
+I  | Extra Information (Optional) |
 
 ## Multi-line cards or cards with images
 
