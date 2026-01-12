@@ -60,7 +60,7 @@ MCQ | Question stem (required) |
 
 O:  | Option 1 | *Option 2 (correct)* | Option 3 | Option 4 |
 
-I  | Extra Information (Optional) |
+I  | Extra Information (Mandatory for MCQs) |
 
 ## Multi-line cards or cards with images
 
