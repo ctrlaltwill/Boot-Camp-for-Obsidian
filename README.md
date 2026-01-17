@@ -1,6 +1,6 @@
-# Boot Camp for Obsidian (Alpha)
+#Sprout (Alpha)
 
-Boot Camp is an Obsidian plugin for writing flashcards directly inside Markdown notes and reviewing them within Obsidian with an FSRS-based scheduler.
+Sprout (Formerly, Boot Camp for Obsidian) is a plugin for writing flashcards directly inside Markdown notes and reviewing them within Obsidian with an FSRS-based scheduler.
 
 ## Quick start
 
