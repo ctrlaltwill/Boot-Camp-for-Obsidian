@@ -1,4 +1,4 @@
-#Sprout (Alpha)
+# Sprout (Alpha)
 
 Sprout (Formerly, Boot Camp for Obsidian) is a plugin for writing flashcards directly inside Markdown notes and reviewing them within Obsidian with an FSRS-based scheduler.
 
