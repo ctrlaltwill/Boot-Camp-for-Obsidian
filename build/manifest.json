@@ -1,10 +1,12 @@
 {
-  "id": "boot-camp-for-obsidian-alpha",
-  "name": "Boot Camp",
-  "version": "0.1.0",
+  "id": "sprout",
+  "name": "Sprout - Flashcards & Spaced Repetition",
+  "version": "0.0.3",
   "minAppVersion": "1.5.0",
-  "description": "Anki-style flashcards within Obsidian.",
+  "description": "Spaced repetition flashcards for Obsidian. Write in Markdown, review efficiently, retain more.",
   "author": "William Guy",
-  "authorUrl": "www.github.com/ctralaltwill",
-  "isDesktopOnly": false
+  "authorUrl": "github.com/ctrlaltwill",
+  "isDesktopOnly": false,
+  "main": "main.js",
+  "css": "styles.css"
 }
