@@ -61,7 +61,11 @@ T | Title (Optional) |
 
 MCQ | Question stem (required) |
 
-O:  | Option 1 | *Option 2 (correct)* | Option 3 | Option 4 |
+A : | Correct answer (required) |
+
+O:  | Wrong answer (required) |
+
+O | Repeat for each additional incorrect answer.
 
 I  | Extra Information (Mandatory for MCQs) |
 
