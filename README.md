@@ -27,6 +27,7 @@ Cards are pipe-delimited lines. Each line starts and ends with a pipe character.
 
 T (title) is optional
 I (info) is optional
+G (groups/tags) is optional
 
 Requirements by type:
 - Basic: Q and A required
@@ -43,6 +44,8 @@ A | Answer (required) |
 
 I  | Extra Information (Optional) |
 
+G | Groups (Optional |
+
 ## Cloze card
 
 Use cloze markers like {{c1::...}}.
@@ -52,6 +55,8 @@ T | Title (Optional) |
 CQ | Cloze text with {{c1::deletions}} (required) |
 
 I  | Extra Information (Optional) |
+
+G | Groups (Optional |
 
 ## MCQ card
 
@@ -69,6 +74,8 @@ O | Repeat for each additional incorrect answer.
 
 I  | Extra Information (Mandatory for MCQs) |
 
+G | Groups (Optional |
+
 ## Multi-line cards or cards with images
 
 Fields can have multiple lines or images (the only exception is the options line for MCQs). For multiple lines the pipe acts as the end of the field. Images can be introduced as Obsidian attachments e.g ![Image One.png] in your note, and they will appear when studying.
@@ -85,6 +92,11 @@ Line Two
 
 I | Keep answers short and structured. |
 
+G | Groups (Optional |
+
+## Image Occlusion 
+
+These must be done through the add flashcard button. This can be accessed from the command palette or by right clicking in a note.
 
 ## Alternative: Add Flashcard button
 
