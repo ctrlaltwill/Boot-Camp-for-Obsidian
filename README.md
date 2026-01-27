@@ -1,7 +1,7 @@
 # Sprout
 
 > [!NOTE]
-> Beta 0.0.4 has just been released – this is a massive update to the alpha and some parsing errors may require you to update your flashcards. A tutorial, better description and screenshots of the new user interface will be updated on Github the coming weeks. 
+> Beta 0.0.4 has just been released – this is a massive update to the plugin and some parsing errors may require you to update your flashcards. A tutorial, better description and screenshots of the new user interface will be updated on Github the coming weeks. 
  
 Sprout (Formerly, Boot Camp for Obsidian) is a plugin for writing flashcards directly inside Markdown notes and reviewing them within Obsidian with an FSRS-based scheduler. It is currently in open Alpha testing.
 
