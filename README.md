@@ -94,6 +94,12 @@ I | Keep answers short and structured. |
 
 G | Groups (Optional |
 
+## Latex and Links
+
+To use links in your questions simply use markdown link formatting, like this: [[link]].
+
+Latex is supported in multi-line cards. Make sure you have a break between the final line of latex and the pipe delimiter, the cards will work without this, but content below your page will display oddly. This is due to the Obsidian rendering the latex before the reading-view cards are added! 
+
 ## Image Occlusion 
 
 These must be done through the add flashcard button. This can be accessed from the command palette or by right clicking in a note.
